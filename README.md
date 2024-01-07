@@ -1,18 +1,18 @@
-# shiv's blogpost
-## shiv's blogpost
-### shiv's blogpost
-*italic*
-**bold**
---strike--
+# Pricing Concepts
 
-- abcd
-- dfg
-- pqrs
+1. Cost Based Pricing
+2. Competitor Based Pricing
+3. Stock Level (Surge) Based Pricing
+4. Value Based Pricing
 
----
 
-1. abcd
-2. dfg
-3. pqrs
+- [Pricing Concepts](#pricing-concepts)
+  - [Cost Based Pricing](#cost-based-pricing)
+  - [Competitor Based Pricing](#competitor-based-pricing)
+  - [Stock Level (Surge) Based Pricing](#stock-level-surge-based-pricing)
+  - [Value Based Pricing](#value-based-pricing)
 
-[abcd](https://google.com)
+## Cost Based Pricing
+## Competitor Based Pricing
+## Stock Level (Surge) Based Pricing
+## Value Based Pricing

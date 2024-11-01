@@ -21,7 +21,7 @@
 
 ## Cost Based Pricing
 
-Cost Based Pricing is a pricing methodology of applying certain percentage(s) ontop of the unit cost of a product or category. Often it is quite simple to achieve and perhaps the most prevalent form of pricing due to the simplistic application and easy to grasp concept for most businesses, typically driven from finance departments with ROI or inflation indexing requirements. However, in more complex business setups subjected to various dynamic forces such as cost allocations, demand shifts, contract negotiations and competitive landscapes the adequate cost plus spread and consequences can be difficult to discern without having expertise in commercial outcomes of such actions.
+Cost Based Pricing is a pricing methodology of applying certain percentage(s) ontop of the unit cost of a product or category. Often it is quite simple to achieve and hence due to this reason perhaps the most prevalent form of pricing for MSMEs, typically driven from finance or accounting departments stating ROI or inflation indexing requirements. However, in more complex business setups subject to various dynamic forces such as cost allocations, demand shifts, contract negotiations and competitive landscapes the consequences of not getting the adequate cost plus amount, timing and integration right can be difficult to discern without having expertise in commercial outcomes of such actions.
 
 ## Competitor Based Pricing
 ## Inventory Based Pricing
